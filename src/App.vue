@@ -1,3 +1,8 @@
+<script setup>
+import navbar from './components/navbar.vue'
+import loader from './components/loader.vue'
+import editor from './components/editor.vue'
+</script>
 <template>
   <div class="app">
     <header class="header">
